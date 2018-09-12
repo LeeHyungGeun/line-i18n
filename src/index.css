@@ -2,4 +2,14 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  font-size: 24px;
+}
+
+section {
+  margin: 0 auto;
+  text-align: center;
+}
+
+div {
+  padding: 2rem 2rem;
 }
