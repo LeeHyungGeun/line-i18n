@@ -1,5 +1,6 @@
 export default {
-    name: 'LeeHyungGeun',
-    occupation: 'Front End Developer',
-    language: 'Korean',
+    name: '이형근',
+    occupation: '프론트엔드 개발자',
+    language: '한국어',
+    description: '안녕하세요. 이 앱은 데코레이터 패턴을 사용한 컴포넌트의 메세지 키를 패스했습니다. 언어는 1. 브라우저 기본 언어, 2. 로컬스토리지에 저장된 언어, 3. 기본언어: 영어 순으로 판단됩니다.'
 };
