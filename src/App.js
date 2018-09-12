@@ -6,9 +6,13 @@ class App extends Component {
   render() {
     const { M } = this.props;
     return (
-      <div>
-        {M.name}
-      </div>
+      <section role="main">
+        <div className="main-intro">
+          <div>{M.name}</div>
+          <div>{M.occupation}</div>
+          <div>{M.description}</div>
+        </div>
+      </section>
     );
   }
 }
