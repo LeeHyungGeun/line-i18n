@@ -1,6 +1,13 @@
 # Introduce
 This App is about Multi Language Component(i18n). Since my previous company LINE WORKS is looking for a Global market: Korea, Japan, and Europe so I normally developed with five languages: Korean, Japanese, English, Chinese-Simplified and Chinese-Traditional. In addition, LINE is looking for more than five languages so I prepared this App. 
 
+# How to start
+``` bash
+> npm install
+> npm run start
+> y 
+```
+
 # How to pass message keys to a component
 Create High Order Component to config a message keys
 ``` javascript
